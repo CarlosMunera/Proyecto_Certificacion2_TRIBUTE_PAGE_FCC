@@ -1,7 +1,7 @@
 # Proyecto 2 para Certificación RESPONSIVE WEB DESIGN - FreeCodeCamp
 
 ## Tribute Page
-Construir un formulario de encuesta para recolectar los datos de los usuarios.
+Build a tribute page for a subject for your choosing fictional or real.
 
 ![Imagen diseño web](img/TributePage.png)
 
